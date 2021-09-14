@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 🤝 I’m looking for help with **Insurance Policy**
+- 🤝 I’m looking for help with **Insurance Policy Project**
 
-- 💬 Ask me about **java, HTML,CSS**
+- 💬 Ask me about **java, HTML , CSS**
 
 - 📫 How to reach me **anujagrawal308@gmail.com**
 
