@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anujagrawal-1&label=Profile%20views&color=0e75b6&style=flat" alt="anujagrawal-1" /> </p>
 
 
-- 🔭 I’m currently working on **Health Insurance Project**
+- 🔭 I’m currently working on **Movie App**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with **Insurance Policy Project**
+- 🤝 I’m looking for help with **ReactJS**
 
-- 💬 Ask me about **java, HTML , CSS**
+- 💬 Ask me about **java, HTML , CSS,Javascript**
 
 - 📫 How to reach me **anujagrawal308@gmail.com**
 
