@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Movie App**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m  **Frontend Developer**
 
-- 🤝 I’m looking for help with **ReactJS**
+- 🤝 I’m looking to help you with **ReactJS**
 
-- 💬 Ask me about **java, HTML , CSS,Javascript**
+- 💬 Ask me about **java, HTML, CSS, Javascript, ReactJS, NextJS, React Native**
 
 - 📫 How to reach me **anujagrawal308@gmail.com**
 
